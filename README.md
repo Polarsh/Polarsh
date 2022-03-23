@@ -83,5 +83,5 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="500" width="500" align=center>
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." align="center" height="500" width="500">
 
