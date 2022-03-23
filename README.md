@@ -2,6 +2,10 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
+<img src="https://github-readme-linkedin-omega.vercel.app/skills?username=dybsm98&limit=5" />
+
+
+
 <!--
 **Polarsh/Polarsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
