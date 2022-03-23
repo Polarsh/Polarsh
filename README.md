@@ -1,4 +1,3 @@
-### Hi there 👋
 <img src="https://c.tenor.com/68oHrFgyysgAAAAC/we-bare-bears-ice-bear.gif" align="left" height="300" width="300" />  
   
 
