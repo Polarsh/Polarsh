@@ -51,8 +51,6 @@
 
 </td><td valign="top" width="33%">
 
-
-
 ### Other  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" />  
@@ -62,7 +60,6 @@
 </td></tr></table>  
 
 <br/>  
-
 
 ## Connect with me  
 <div align="center">
@@ -80,13 +77,10 @@
 </a>  
 </div>  
   
-
 <br/>  
-
 
 ## A Joke 
   
-
 <br/>  
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
@@ -98,4 +92,3 @@
 <br/>
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=n3a77e10hu8t9i65whv5mbivc&cover_image=true&theme=default" /></div>  
-
