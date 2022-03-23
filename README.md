@@ -2,7 +2,7 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-<img src="https://github-readme-linkedin-omega.vercel.app/skills?username=dybsm98&limit=5" />
+<img src="https://github-readme-linkedin-omega.vercel.app/user?username=dybsm98&limit=5" />
 
 
 
