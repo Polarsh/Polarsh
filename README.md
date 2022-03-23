@@ -83,8 +83,10 @@
   
 <br/>  
 
+<div align="left">
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-
+<\div>
+  
 <br/>
 
-<div align="left"><img src="https://spotify-github-profile.vercel.app/api/view?uid=n3a77e10hu8t9i65whv5mbivc&cover_image=true&theme=default" /></div>  
+<div align="right"><img src="https://spotify-github-profile.vercel.app/api/view?uid=n3a77e10hu8t9i65whv5mbivc&cover_image=true&theme=default" /></div>  
