@@ -76,9 +76,5 @@
   
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=n3a77e10hu8t9i65whv5mbivc&cover_image=true&theme=default" /></div>  
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." align="center" height="500" width="500">
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=n3a77e10hu8t9i65whv5mbivc&cover_image=true&theme=default" /></div> 
 
