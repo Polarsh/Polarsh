@@ -3,10 +3,7 @@
 
 ### <div align="center">I'm Polarsh, a Software Engineering Student. 🐣</div>  
   
-
-- 🔭 I’m currently working on [BitPerfect](https://bitperfect.pe/)  
   
-
 - 🌱 I’m currently learning Flutter & Python  
   
 
