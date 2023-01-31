@@ -1,6 +1,3 @@
-<img src="https://c.tenor.com/68oHrFgyysgAAAAC/we-bare-bears-ice-bear.gif" align="left" height="200" width="200" />  
-  
-
 ### <div align="center">I'm Polarsh, a Software Engineering Student. 🐣</div>  
   
   
