@@ -1,10 +1,10 @@
 ### <div align="center">I'm Polarsh, a Software Engineering Student. 🐣</div>  
-  
-  
-- 🌱 I’m currently learning Flutter & Python  
-  
 
-- ⚡ Fun fact: I use tabs over spaces  
+- I love React <3
+  
+- 🌱 I’m currently learning Flutter & Python
+
+- ⚡ Fun fact: I use 2 spaces over tabs  
   
 
 <br/>  
@@ -16,17 +16,15 @@
 
 
 ### Frontend  
-<div align="center">  
+<div align="center"> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" />  
 </div>
 
 </td><td valign="top" width="33%">
-
-
-
+  
 ### Backend  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
