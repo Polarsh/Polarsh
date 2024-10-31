@@ -1,15 +1,15 @@
-### <div align="center">Soy Deyvidyorch Sanchez, Desarrollador Frontend 💻. </div>
+### <div align="center">Soy Deyvidyorch Sanchez, Desarrollador Frontend 💻 </div>
 
-
-- 💻 Tengo experiencia en React, Tailwind, Firebase y tecnologías en la nube.
-
+- 💻 Tengo experiencia en **React**, **Tailwind**, **Firebase** y tecnologías en la nube.
+  
 - 🎓 Bachiller en Ingeniería de Software.
 
-- 🌱 Además, me gusta Flutter y Python.
+- 🌱 Además, me gusta **Flutter** y **Python**.
 
+- 🌐 [Visita mi portafolio](https://dybsm98-webs.web.app/) para conocer mis proyectos y habilidades.
 
+<br/>
 
-<br/>  
 
 
 ## Mi Conjunto de Habilidades 🚀  
