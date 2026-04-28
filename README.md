@@ -2,7 +2,7 @@
 
 - 💻 Tengo experiencia en **React**, **Tailwind**, **Firebase** y tecnologías en la nube.
   
-- 🎓 Bachiller en Ingeniería de Software.
+- 🎓 Titulado en Ingeniería de Software.
 
 - 🌱 Además, me gusta **Flutter** y **Python**.
 
